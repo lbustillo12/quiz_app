@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+Aplicación móvil desarrollada en Flutter que permite realizar quizzes de opción múltiple. Muestra resultados al final y ofrece una interfaz simple e intuitiva. 
 
 ## Getting Started
 
